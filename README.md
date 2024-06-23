@@ -3,10 +3,23 @@
 ###
 
 <p align="center">
-  coming from the <b>drifters</b> 🤭<br>
-  I love rainbows! 🌈<br>
-  Aspiring front-end web developer and ui/ux designer ✨
+  Coming from the <b>drifters</b> 🤭<br>
+  Aspiring front-end (potentially full-stack) web developer ✨
 </p> 
+
+<h2 align="center">🎀 Tools and Languages: 🎀</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,c,cpp,py,java,php,firebase&perline=5" />
+  </a>
+</p>
+
+<h2 align="center">🌈 What I'm currently learning: 🌈</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,vue,linux&perline=5" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hanmarine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en" height="150" alt="stats graph"  />
