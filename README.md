@@ -10,14 +10,7 @@
 <h2 align="center">🎀 Tools and Languages: 🎀</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,c,cpp,py,java,php,firebase&perline=5" />
-  </a>
-</p>
-
-<h2 align="center">🌈 What I'm currently learning: 🌈</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,vue,linux&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,c,cpp,py,java,php,firebase,react,nodejs,tailwind,vue,linux&perline=5" />
   </a>
 </p>
 
