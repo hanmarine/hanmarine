@@ -3,7 +3,6 @@
 ###
 
 <p align="center">
-  Coming from the <b>drifters</b> 🤭<br>
   Aspiring front-end (potentially full-stack) web developer ✨
 </p> 
 
