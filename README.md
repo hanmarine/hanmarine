@@ -9,7 +9,8 @@
 <h2 align="center">Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,py,java,php,jquery,react,git&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,py&perline=5" /><br>
+    <img src="https://skillicons.dev/icons?i=java,php,jquery,git&perline=4" />
   </a>
 </p>
 
