@@ -3,13 +3,20 @@
 ###
 
 <p align="center">
-  Aspiring front-end (potentially full-stack) web developer ✨
+  Aspiring Front-End or MERN stack developer ✨
 </p> 
 
-<h2 align="center">🎀 Tools and Languages: 🎀</h2>
+<h2 align="center">Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,c,cpp,py,java,php,firebase&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,py,java,php,jquery,react,git&perline=5" />
+  </a>
+</p>
+
+<h2 align="center">Tools and Technologies</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,github,wordpress,vite,nodejs,react,tailwind&perline=7" />
   </a>
 </p>
 
