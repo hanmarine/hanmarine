@@ -8,7 +8,7 @@
 
 <h2 align="center">Languages</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,py&perline=5" /><br>
     <img src="https://skillicons.dev/icons?i=java,php,jquery,git&perline=4" />
   </a>
@@ -16,8 +16,9 @@
 
 <h2 align="center">Tools and Technologies</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,github,wordpress,vite,nodejs,react,tailwind&perline=7" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=figma,firebase,github,wordpress,vite&perline=5" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,postgres&perline=4" />
   </a>
 </p>
 
