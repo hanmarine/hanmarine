@@ -17,8 +17,8 @@
 <h2 align="center">Tools and Technologies</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=figma,firebase,github,wordpress,vite&perline=5" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,postgres&perline=4" />
+    <img src="https://skillicons.dev/icons?i=figma,firebase,github,wordpress,vite,astro&perline=6" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,postgres,selenium&perline=5" />
   </a>
 </p>
 
