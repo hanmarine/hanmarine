@@ -2,9 +2,9 @@
 
 ###
 
-<p align="center">
-  Aspiring Front-End or MERN stack developer ✨
-</p> 
+- Aspiring Front-End Developer and QA Analyst/Tester
+- Currently learning MERN stack
+
 
 <h2 align="center">Languages</h2>
 <p align="center">
