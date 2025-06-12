@@ -2,7 +2,7 @@
 
 ###
 
-- Aspiring Front-End Developer and QA Analyst/Tester
+- Aspiring Front-End/Mobile Developer and QA Analyst/Tester
 - Currently learning MERN stack
 
 
