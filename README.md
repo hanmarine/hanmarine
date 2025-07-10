@@ -18,7 +18,7 @@
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=figma,firebase,github,wordpress,vite,astro&perline=6" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,postgres,selenium&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,postgres,selenium,nextjs&perline=6" />
   </a>
 </p>
 
