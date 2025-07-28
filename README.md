@@ -8,18 +8,14 @@
 
 <h2 align="center">Languages</h2>
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,py&perline=5" /><br>
-    <img src="https://skillicons.dev/icons?i=java,php,jquery,git&perline=4" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,py&perline=5" /><br>
+  <img src="https://skillicons.dev/icons?i=java,php,jquery,git&perline=4" />
 </p>
 
 <h2 align="center">Tools and Technologies</h2>
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=figma,firebase,github,wordpress,vite,astro,vue&perline=7" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,postgres,selenium,nextjs&perline=6" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=figma,firebase,github,wordpress,vite,astro,vue&perline=7" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,postgres,selenium,nextjs&perline=6" />
 </p>
 
 <div align="center">
