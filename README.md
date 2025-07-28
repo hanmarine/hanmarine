@@ -14,7 +14,7 @@
 
 <h2 align="center">Tools and Technologies</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,firebase,github,wordpress,vite,astro,vue&perline=7" /><br>
+  <img src="https://skillicons.dev/icons?i=firebase,github,wordpress,vite,astro,vue&perline=6" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,postgres,selenium,nextjs&perline=6" />
 </p>
 
