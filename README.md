@@ -1,24 +1,17 @@
-<h1 align="center">Hi, I'm Hana 👋</h1>
+# Hi, I'm Hana 👋
 
-###
+## About Me
 
-- Aspiring Front-End, WordPress, or Mobile Developer and QA Analyst/Tester
-- Currently learning MERN stack
+- CS Graduate
+- Aspiring Fullstack Developer and QA Analyst/Tester
+- Actively learning and building web projects in my free time.
 
+## Socials
+<a href="https://www.linkedin.com/in/hanmarine" target="_blank" rel="noopener noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge"></a>
+<a href="https://hnmrine.vercel.app/" target="_blank" rel="noopener noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-003153?style=for-the-badge">
+</a>
 
-<h2 align="center">Languages</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,py&perline=5" /><br>
-  <img src="https://skillicons.dev/icons?i=java,php,jquery,git&perline=4" />
-</p>
-
-<h2 align="center">Tools and Technologies</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,github,wordpress,vite,astro,vue&perline=6" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,postgres,selenium,nextjs&perline=6" />
-</p>
-
+## Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanmarine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanmarine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanmarine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia" height="170" alt="languages graph"  />
 </div>
