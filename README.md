@@ -4,7 +4,8 @@
 
 - Computer Science Graduate
 - WordPress and Duda Developer
-- Learning and building web projects in my free time.
+- Learning web development and cybersecurity
+- Building projects in my free time
 
 ### Socials
 <a href="https://www.linkedin.com/in/hanmarine" target="_blank" rel="noopener noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge"></a>
